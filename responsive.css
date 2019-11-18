@@ -1,0 +1,11 @@
+@media (max-width: 770px) {
+  .bot-nav-lst {
+    display: none !important;
+  }
+  .bottom-nav-bot .left {
+    display: none !important;
+  }
+  h4 {
+    margin: 15px !important;
+  }
+}
